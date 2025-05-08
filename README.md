@@ -6,30 +6,30 @@
 
 ### ✨ Sobre mim
 
-- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🐍 Foco total em **Python** e **Ciência de Dados**
-- 🛠️ Em construção: Engenharia de Dados, ETL, Web Scraping e muito mais
-- 🌱 Iniciando minha carreira com sede de aprendizado
-- 💡 Acredito em evolução contínua e na força da comunidade dev
+- 📚 **Estudante de Análise e Desenvolvimento de Sistemas**
+- 🐍 **Foco total em Python e Ciência de Dados**
+- 🛠️ Em constante construção: Engenharia de Dados, ETL, Web Scraping e muito mais
+- 🌱 Embarcando na jornada da tecnologia com sede de aprendizado
+- 💡 Acredito no poder da **evolução contínua** e na força da comunidade **Dev**
 
 ---
 
 ### 🧠 Habilidades em construção
 
-> Aprendizado diário, erros e acertos. Aqui está o que estou dominando:
+> **Aprendizado diário**: os erros se transformam em acertos. Aqui estão as habilidades que estou desenvolvendo:
 
-- 🔹 Python (nível intermediário)
-- 🔹 Engenharia de Dados
-- 🔹 Automação com N8N
-- 🔹 Banco de Dados: SQL, NoSQL e MongoDB
-- 🔹 Web Scraping
-- 🔹 Docker
-- 🔹 ETL Pipelines
-- 🔹 Machine Learning (nível iniciante)
+- 🔹 **Python** (intermediário)
+- 🔹 **Engenharia de Dados**
+- 🔹 **Automação com N8N**
+- 🔹 **Banco de Dados**: SQL, NoSQL e MongoDB
+- 🔹 **Web Scraping**
+- 🔹 **Docker**
+- 🔹 **ETL Pipelines**
+- 🔹 **Machine Learning** (iniciante)
 
 ---
 
-### 🧰 Tecnologias que estou estudando
+### 🧰 Tecnologias que estou dominando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,5 +58,8 @@
 
 ---
 
-> _"A melhor maneira de prever o futuro é inventá-lo."_ — Steve Jobs
+> _"Se você não está disposto a arriscar o usual, terá que se contentar com o comum."_ — Jim Rohn
 
+---
+
+> _"A melhor maneira de prever o futuro é inventá-lo."_ — Steve Jobs
