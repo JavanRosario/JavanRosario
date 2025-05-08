@@ -54,4 +54,9 @@
 
 ### 📬 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javanoliveirads@gmail.com)
+
+---
+
+> _"Você não precisa ser ótimo para começar, mas precisa começar para ser ótimo."_ — Zig Ziglar
