@@ -46,6 +46,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=JavanRosario&repo=meu-repo-importante" />
 </p>
 
 ---
