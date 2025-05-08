@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Fala, eu sou o Javan Oliveira!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=450&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Dev+em+evolução+constante;ADS+Student+%7C+Future+Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Dev+em+evolução+constante;ADS+Student+%7C+Future+Data+Engineer" alt="Typing SVG" />
 </p>
 
 ---
