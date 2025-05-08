@@ -7,7 +7,7 @@
 ### ✨ Sobre mim
 
 - 📚 **Estudante de Análise e Desenvolvimento de Sistemas**
-- 🐍 **Foco total em Python e Ciência de Dados**
+- 🐍 **Foco total em Python e dados**
 - 🛠️ Em constante construção: Engenharia de Dados, ETL, Web Scraping e muito mais
 - 🌱 Embarcando na jornada da tecnologia com sede de aprendizado
 - 💡 Acredito no poder da **evolução contínua** e na força da comunidade **Dev**
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧰 Tecnologias que estou dominando
+### 🧰 Tecnologias que estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
