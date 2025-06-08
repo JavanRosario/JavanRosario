@@ -13,16 +13,24 @@
 
 ---
 
-## 📘 Cursos em Formação
+## 🧰 Habilidades Técnicas
 
-- 🔹 Python (intermediário)  
-- 🔹 Engenharia de Dados  
-- 🔹 Automação com N8N  
-- 🔹 SQL, NoSQL, MongoDB  
-- 🔹 Web Scraping  
-- 🔹 Docker  
-- 🔹 ETL  
-- 🔹 Machine Learning (iniciante)
+- **Python e C:** básico/intermediário – estruturas de repetição, listas, dicionários/arrays, funções  
+- **Ferramentas e Tecnologias:** Git/GitHub, Docker (em estudo), N8N (em estudo), Selenium (em estudo), Power BI (em estudo)  
+- **Banco de Dados:** SQL, MongoDB (NoSQL)  
+- **Automação & Dados:** ETL (em aprendizado), Web Scraping (em aprendizado)  
+- **Sistemas Operacionais:** Windows, Linux (básico)  
+
+---
+
+## 💡 Soft Skills
+
+- Curioso  
+- Comunicativo  
+- Resiliente  
+- Focado em resolução de problemas  
+- Aprendizado contínuo  
+
 ---
 
 ### 🧰 Tecnologias que estou aprendendo
@@ -59,3 +67,4 @@
 ---
 
 > _"A melhor maneira de prever o futuro é inventá-lo."_ — Steve Jobs
+
