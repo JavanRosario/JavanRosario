@@ -4,29 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Systems+Analysis+%26+Dev+Student;Iniciando+na+carreira+de+Tecnologia" alt="Typing SVG" />
 </p>
 
-### ✨ Sobre mim
+# Sobre Mim ✨
 
-- 📚 **Estudante de Análise e Desenvolvimento de Sistemas**
-- 🐍 **Foco total em Python e dados**
-- 🛠️ Em constante construção: Engenharia de Dados, ETL, Web Scraping e muito mais
-- 🌱 Embarcando na jornada da tecnologia com sede de aprendizado
-- 💡 Acredito no poder da **evolução contínua** e na força da comunidade **Dev**
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🐍 Foco em Python e dados  
+- 🛠️ Explorando Engenharia de Dados, ETL, Web Scraping e mais  
+- 💡 Acredito na evolução contínua e no poder da comunidade Dev
 
 ---
 
-### 🧠 Habilidades em construção
+## 📘 Cursos em Formação
 
-> **Aprendizado diário**: os erros se transformam em acertos. Aqui estão as habilidades que estou desenvolvendo:
-
-- 🔹 **Python** (intermediário)
-- 🔹 **Engenharia de Dados**
-- 🔹 **Automação com N8N**
-- 🔹 **Banco de Dados**: SQL, NoSQL e MongoDB
-- 🔹 **Web Scraping**
-- 🔹 **Docker**
-- 🔹 **ETL Pipelines**
-- 🔹 **Machine Learning** (iniciante)
-
+- 🔹 Python (intermediário)  
+- 🔹 Engenharia de Dados  
+- 🔹 Automação com N8N  
+- 🔹 SQL, NoSQL, MongoDB  
+- 🔹 Web Scraping  
+- 🔹 Docker  
+- 🔹 ETL  
+- 🔹 Machine Learning (iniciante)
 ---
 
 ### 🧰 Tecnologias que estou aprendendo
