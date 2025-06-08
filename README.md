@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Systems+Analysis+%26+Dev+Student;Iniciando+na+carreira+de+Tecnologia" alt="Typing SVG" />
 </p>
 
-# Sobre Mim ✨
+# Sobre Mim 👨‍💻
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🐍 Foco em Python e dados  
