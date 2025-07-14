@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Systems+Analysis+%26+Dev+Student;Iniciando+na+carreira+de+Tecnologia" alt="Typing SVG" />
 </p>
+
 ## 🧠 Habilidades Técnicas (em evolução contínua)
+
 ### 🐍 Python (nível intermediário/avançando)
 
 - Manipulação avançada de dados: listas, dicionários e conjuntos  
@@ -14,7 +16,9 @@
 - Funções de alto nível: definições, closures e decorators  
 - Programação Orientada a Objetos sólida: classes, herança, composição e encapsulamento  
 
-# Sobre Mim 👨‍💻
+---
+
+## Sobre Mim 👨‍💻
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🐍 Foco em Python e dados  
@@ -32,6 +36,7 @@
 - ⚙️ **Comprometido com a prática e com o trabalho** – tenho prazer em trabalhar e me desenvolver na área, com consistência e seriedade.  
 - 🚀 **Mentalidade de crescimento** – acredito na melhoria contínua e estou sempre explorando novos conceitos e tecnologias.
 
+---
 
 ### 🧰 Tecnologias que estou aprendendo
 
@@ -45,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight" />
@@ -55,13 +60,11 @@
 
 ---
 
-### 📬 Vamos nos conectar!
+## 📬 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraajavan@hotmail.com)
 
 ---
 
 > _"Se você não está disposto a arriscar o usual, terá que se contentar com o comum."_ — Jim Rohn
-
-
