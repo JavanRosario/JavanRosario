@@ -8,10 +8,10 @@
 
 ## Sobre Mim 👨‍💻
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Foco em Python para backend e análise de dados  
-🛠️ Estudo diariamente para crescer na área de desenvolvimento, com foco principal na área de dados  
-🚀 Buscando minha primeira oportunidade como desenvolvedor, dedicado a aprender e evoluir todos os dias  
+- **Estudante de Análise e Desenvolvimento de Sistemas**  
+- **Foco em Python para backend e análise de dados**  
+- **Estudo diariamente para crescer na área de desenvolvimento, com foco principal na área de dados**  
+- **Buscando minha primeira oportunidade como desenvolvedor, dedicado a aprender e evoluir todos os dias**  
 
 ---
 
