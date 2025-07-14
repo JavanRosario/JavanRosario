@@ -3,6 +3,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Systems+Analysis+%26+Dev+Student;Iniciando+na+carreira+de+Tecnologia" alt="Typing SVG" />
 </p>
+## 🧠 Habilidades Técnicas (em evolução contínua)
+### 🐍 Python (nível intermediário/avançando)
+
+- Manipulação avançada de dados: listas, dicionários e conjuntos  
+- Aplicação de boas práticas: clean code e legibilidade  
+- Controle de fluxo robusto: condicionais (if, elif, aninhados)  
+- Iteração eficiente: loops for, while e estruturas aninhadas  
+- Modularização e organização de projetos: ambientes virtuais (venv) e pacotes  
+- Funções de alto nível: definições, closures e decorators  
+- Programação Orientada a Objetos sólida: classes, herança, composição e encapsulamento  
 
 # Sobre Mim 👨‍💻
 
@@ -13,25 +23,15 @@
 
 ---
 
-## 🧰 Habilidades Técnicas
-
-- **Python e C:** básico/intermediário – estruturas de repetição, listas, dicionários/arrays, funções  
-- **Ferramentas e Tecnologias:** Git/GitHub, Docker (em estudo), N8N (em estudo), Selenium (em estudo), Power BI (em estudo)  
-- **Banco de Dados:** SQL, MongoDB (NoSQL)  
-- **Automação & Dados:** ETL (em aprendizado), Web Scraping (em aprendizado)  
-- **Sistemas Operacionais:** Windows, Linux (básico)  
-
----
-
 ## 💡 Soft Skills
 
-- Curioso  
-- Comunicativo  
-- Resiliente  
-- Focado em resolução de problemas  
-- Aprendizado contínuo  
+- 🔍 **Curioso e movido por aprendizado real** – não sigo fórmulas prontas; gosto de entender como e por que as coisas funcionam.  
+- 💬 **Comunicativo e colaborativo** – acredito na força do trabalho em equipe e na troca de conhecimento.  
+- 🔄 **Resiliente e determinado** – estudo todos os dias, com foco e disciplina, buscando sempre evoluir.  
+- 🛠️ **Foco em solução de problemas** – gosto de pensar, testar e encontrar caminhos eficientes.  
+- ⚙️ **Comprometido com a prática e com o trabalho** – tenho prazer em trabalhar e me desenvolver na área, com consistência e seriedade.  
+- 🚀 **Mentalidade de crescimento** – acredito na melhoria contínua e estou sempre explorando novos conceitos e tecnologias.
 
----
 
 ### 🧰 Tecnologias que estou aprendendo
 
@@ -64,7 +64,4 @@
 
 > _"Se você não está disposto a arriscar o usual, terá que se contentar com o comum."_ — Jim Rohn
 
----
-
-> _"A melhor maneira de prever o futuro é inventá-lo."_ — Steve Jobs
 
