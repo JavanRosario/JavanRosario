@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=Python+%26+Data+Enthusiast;Code.+Debug.+Repeat.;Systems+Analysis+%26+Dev+Student;Iniciando+na+carreira+de+Tecnologia" alt="Typing SVG" />
 </p>
 
+---
+
+## Sobre Mim 👨‍💻
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Foco em Python para backend e análise de dados  
+🛠️ Estudo diariamente para crescer na área de desenvolvimento, com foco principal na área de dados  
+🚀 Buscando minha primeira oportunidade como desenvolvedor, dedicado a aprender e evoluir todos os dias  
+
+---
+
 ## 🧠 Habilidades Técnicas (em evolução contínua)
 
 ### 🐍 Python (nível intermediário/avançando)
@@ -15,15 +26,6 @@
 - Modularização e organização de projetos: ambientes virtuais (venv) e pacotes  
 - Funções de alto nível: definições, closures e decorators  
 - Programação Orientada a Objetos sólida: classes, herança, composição e encapsulamento  
-
----
-
-## Sobre Mim 👨‍💻
-
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🐍 Foco em Python e dados  
-- 🛠️ Explorando Engenharia de Dados, ETL, Web Scraping e mais  
-- 💡 Acredito na evolução contínua e no poder da comunidade Dev
 
 ---
 
