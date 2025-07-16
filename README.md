@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Javan Oliveira</h1>
+<h1 align="center"> Javan Oliveira</h1>
 
 ---
 
@@ -40,11 +40,12 @@
 
 ---
 
-<div align="center">
-  <img width="33%" height="400" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img width="33%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats") />
-  <img width="33%" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<a href="https://github.com/JavanRosario/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/JavanRosario/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=swift" />
+</a>
 
 ---
 
