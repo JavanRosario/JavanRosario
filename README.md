@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/JavanRosario/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=swift" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=swift&cache_seconds=1800" />
 </a>
 <a href="https://github.com/JavanRosario/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=swift" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=swift&cache_seconds=1800" />
 </a>
 
 
