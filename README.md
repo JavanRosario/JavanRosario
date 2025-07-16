@@ -1,4 +1,4 @@
-<h1 align="center"> Javan Oliveira</h1>
+<h1 align="center">🚀 Javan Oliveira</h1>
 
 ---
 
@@ -15,12 +15,14 @@
 
 ### ⚙️ Python (nível intermediário → avançando)
 
-- Manipulação de listas, dicionários, sets e arquivos
-- Controle de fluxo com condicionais e laços
-- Funções modernas: lambda, decorators, closures
-- POO: classes, herança, composição, encapsulamento
-- Modularização de projetos, uso de ambientes virtuais (`venv`)
-- Automatizações, análise de dados e clean code
+- Manipulação de listas, dicionários, sets e arquivos  
+- Controle de fluxo com condicionais e laços  
+- Funções modernas: lambda, decorators, closures  
+- POO: classes, herança, composição, encapsulamento  
+- Modularização de projetos, uso de ambientes virtuais (`venv`)  
+- Automatizações, análise de dados e clean code  
+
+---
 
 ### 🧰 Tecnologias em progresso
 
@@ -36,10 +38,10 @@
 
 ## 💡 Soft Skills
 
-- 📚 **Autodidata e disciplinado**
-- 🔍 **Curioso e investigativo**
-- 🤝 **Comunicativo e colaborativo**
-- 🛠️ **Orientado a resolver problemas**
+- 📚 **Autodidata e disciplinado**  
+- 🔍 **Curioso e investigativo**  
+- 🤝 **Comunicativo e colaborativo**  
+- 🛠️ **Orientado a resolver problemas**  
 - 🚀 **Mentalidade de crescimento contínuo**
 
 ---
@@ -48,7 +50,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
 
@@ -58,7 +60,7 @@
 
 ## 📬 Vamos nos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraajavan@hotmail.com)
 
 ---
