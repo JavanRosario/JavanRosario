@@ -26,7 +26,7 @@
 
 ### 🧰 Tecnologias em Progresso
 
-<p align="center">
+<p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -58,7 +58,7 @@
 
 ## 📬 Vamos nos Conectar!
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="left" style="display: flex; justify-content: flex-start; gap: 10px;">
   <a href="https://www.linkedin.com/in/javan-oliveira-269050358" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
