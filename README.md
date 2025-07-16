@@ -1,6 +1,13 @@
 <h1 align="center"> Javan Oliveira</h1>
 
----
+
+<a href="https://github.com/JavanRosario/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/JavanRosario/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=swift" />
+</a>
+
 
 ## 👨‍💻 Sobre Mim
 
@@ -37,17 +44,6 @@
 - 🤝 **Comunicativo e colaborativo**  
 - 🛠️ **Orientado a resolver problemas**  
 - 🚀 **Mentalidade de crescimento contínuo**
-
----
-
-<a href="https://github.com/JavanRosario/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=swift" />
-</a>
-<a href="https://github.com/JavanRosario/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=swift" />
-</a>
-
----
 
 ## 📬 Vamos nos Conectar!
 
