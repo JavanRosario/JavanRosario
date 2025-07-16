@@ -44,15 +44,11 @@
 - 🛠️ **Orientado a resolver problemas**  
 - 🚀 **Mentalidade de crescimento contínuo**
 
----
-
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
-
----
 
 ## 📬 Vamos nos Conectar!
 
