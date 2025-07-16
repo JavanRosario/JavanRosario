@@ -65,4 +65,22 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img alt="Javan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" />
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" />
+</div>
+
+---
+
+## 👁️‍🗨️ Contador de Visualizações
+
+[![Visualizações do perfil](https://u8views.com/api/v1/github/profiles/124321489/views/day-week-month-total-count.svg)](https://u8views.com/github/JavanRosario)
+
+> *As estatísticas acima refletem meu crescimento real como desenvolvedor.*
+
+
 > _“Se você não está disposto a arriscar o usual, terá que se contentar com o comum.”_ — **Jim Rohn**
