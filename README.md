@@ -8,35 +8,31 @@
 
 ## Sobre Mim 👨‍💻
 
-- **Estudante de Análise e Desenvolvimento de Sistemas**  
-- **Foco em Python para backend e análise de dados**  
-- **Estudo diariamente para crescer na área de desenvolvimento, com foco principal na área de dados**  
-- **Buscando minha primeira oportunidade como desenvolvedor, dedicado a aprender e evoluir todos os dias**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🐍 Foco em **Python** para backend e análise de dados  
+- 📈 Estudo diariamente para crescer como desenvolvedor  
+- 🚀 Buscando minha **primeira oportunidade** na área de tecnologia  
 
 ---
 
-## 🧠 Habilidades Técnicas (em evolução contínua)
+## 🧠 Habilidades Técnicas
 
 ### 🐍 Python (nível intermediário/avançando)
 
-- Manipulação avançada de dados: listas, dicionários e conjuntos  
-- Aplicação de boas práticas: clean code e legibilidade  
-- Controle de fluxo robusto: condicionais (if, elif, aninhados)  
-- Iteração eficiente: loops for, while e estruturas aninhadas  
-- Modularização e organização de projetos: ambientes virtuais (venv) e pacotes  
-- Funções de alto nível: definições, closures e decorators  
-- Programação Orientada a Objetos sólida: classes, herança, composição e encapsulamento  
+- Estruturação de dados: listas, dicionários, conjuntos  
+- Funções modernas: closures, decorators, HOF  
+- Orientação a Objetos sólida: herança, composição, encapsulamento  
+- Organização de projetos com virtualenv e modularização  
+- Automatização, análise de dados e boas práticas  
 
 ---
 
 ## 💡 Soft Skills
 
-- 🔍 **Curioso e movido por aprendizado real** – não sigo fórmulas prontas; gosto de entender como e por que as coisas funcionam.  
-- 💬 **Comunicativo e colaborativo** – acredito na força do trabalho em equipe e na troca de conhecimento.  
-- 🔄 **Resiliente e determinado** – estudo todos os dias, com foco e disciplina, buscando sempre evoluir.  
-- 🛠️ **Foco em solução de problemas** – gosto de pensar, testar e encontrar caminhos eficientes.  
-- ⚙️ **Comprometido com a prática e com o trabalho** – tenho prazer em trabalhar e me desenvolver na área, com consistência e seriedade.  
-- 🚀 **Mentalidade de crescimento** – acredito na melhoria contínua e estou sempre explorando novos conceitos e tecnologias.
+- 🔍 Curioso e focado em aprendizado de verdade  
+- 🧠 Resiliente, autodidata e com disciplina diária  
+- 💬 Colaborativo, com boa comunicação e sede de crescer  
+- 🛠️ Resolver problemas é meu combustível  
 
 ---
 
@@ -52,19 +48,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (foco em Python)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&hide=contribs,prs&custom_title=Estatísticas+de+Desenvolvimento+em+Python" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
 
+> 📌 Linguagens ocultas para focar no seu crescimento com Python 💪
+
 ---
 
-## 📬 Vamos nos conectar!
+## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraajavan@hotmail.com)
 
 ---
