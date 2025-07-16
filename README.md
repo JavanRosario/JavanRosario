@@ -24,15 +24,17 @@
 
 ---
 
-### 🧰 Tecnologias em progresso
+### 🧰 Tecnologias em Progresso
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -43,14 +45,19 @@
 - 🤝 **Comunicativo e colaborativo**  
 - 🛠️ **Orientado a resolver problemas**  
 - 🚀 **Mentalidade de crescimento contínuo**
+
 ---
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
+
+<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
+
 ## 📬 Vamos nos Conectar!
+
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/javan-oliveira-269050358" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -60,9 +67,6 @@
   </a>
 </p>
 
-
 ---
-
-
 
 > _“Se você não está disposto a arriscar o usual, terá que se contentar com o comum.”_ — **Jim Rohn**
