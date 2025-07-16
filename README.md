@@ -41,9 +41,9 @@
 ---
 
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" alt="Top Languages" />
-  <img height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
