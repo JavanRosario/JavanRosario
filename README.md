@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Javan Oliveira</h1>
+<h1 align="center"> Javan Oliveira</h1>
 
 ---
 
