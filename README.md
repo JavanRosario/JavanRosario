@@ -1,15 +1,11 @@
 <h1 align="center">🚀 Javan Oliveira</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB0&center=true&vCenter=true&width=500&lines=Python+%26+Data+Enthusiast;Backend+em+Evolução+Constante;Estudante+de+ADS+apaixonado+por+tecnologia;Buscando+minha+1ª+vaga+em+TI" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Foco em **Python**, análise de dados e backend  
+💡 Foco em **Python** e dados!  
 📈 Evoluindo com estudo diário, prática e consistência  
 🔎 Em busca da **minha primeira oportunidade na área de tecnologia**
 
