@@ -42,7 +42,7 @@
 
 <div align="center">
   <img width="33%" height="400" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img width="33%" height="250" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) />
+  <img width="33%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats") />
   <img width="33%" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
