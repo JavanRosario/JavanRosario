@@ -43,17 +43,23 @@
 - 🤝 **Comunicativo e colaborativo**  
 - 🛠️ **Orientado a resolver problemas**  
 - 🚀 **Mentalidade de crescimento contínuo**
-
+---
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
-
+---
 ## 📬 Vamos nos Conectar!
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/javan-oliveira-269050358" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oliveiraajavan@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javan-oliveira-269050358)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiraajavan@hotmail.com)
 
 ---
 
