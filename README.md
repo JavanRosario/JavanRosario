@@ -5,7 +5,7 @@
 ## 👨‍💻 Sobre Mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Foco em **Python** e dados!  
+💡 Foco em **Python** e **dados**!  
 📈 Evoluindo com estudo diário, prática e consistência  
 🔎 Em busca da **minha primeira oportunidade na área de tecnologia**
 
@@ -51,6 +51,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📬 Vamos nos Conectar!
