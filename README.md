@@ -51,13 +51,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavanRosario&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavanRosario&theme=tokyonight" />
 </p>
-
-## 👁️‍🗨️ Contador de Visualizações
-
-[![Visualizações do perfil](https://u8views.com/api/v1/github/profiles/124321489/views/day-week-month-total-count.svg)](https://u8views.com/github/JavanRosario)
-
-
-
 ---
 
 ## 📬 Vamos nos Conectar!
