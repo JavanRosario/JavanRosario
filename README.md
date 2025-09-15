@@ -61,10 +61,9 @@
 
 <a href="https://www.linkedin.com/in/javan-oliveira-269050358" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:oliveiraajavan@hotmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+
+
+
 
 ---
 
