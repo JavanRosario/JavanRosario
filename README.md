@@ -27,7 +27,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,mysql,postgresql,mongodb,docker,react,angular,git&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,spring,typescript,react,angular,mysql,postgresql,mongodb,docker,git&perline=11" />
 
 ---
 
