@@ -1,12 +1,5 @@
 <h1 align="center"> Javan Oliveira</h1>
 
-<a href="https://github.com/JavanRosario/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JavanRosario&show_icons=true&theme=radical&cache_seconds=1800" />
-</a>
-<a href="https://github.com/JavanRosario/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavanRosario&layout=compact&langs_count=8&card_width=320&theme=radical&cache_seconds=1800" />
-</a>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
