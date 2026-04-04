@@ -9,17 +9,18 @@
 ---
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
-🎓 26 years old – Student of Analysis and Systems Development<br>
-💻 Focused on Backend with Java & REST APIs<br>
-🗄️ Interested in Databases, JPA/Hibernate and Spring Boot<br>
-📍 Rio de Janeiro, Brazil<br>
-📈 Improving daily through study, practice, and real projects<br>
-🚀 Seeking my first opportunity in backend development<br>
+🎓 26 years old – Analysis and Systems Development student  
+💻 Backend Developer focused on Java, Spring Boot and REST APIs  
+⚙️ Experience with microservices architecture, Docker and Apache Kafka  
+🗄️ Working with relational and NoSQL databases (PostgreSQL, MongoDB, Redis)  
+📍 Rio de Janeiro, Brazil  
+📈 Constantly improving through hands-on projects and real-world challenges  
+🚀 Looking for an opportunity as a Backend Java Developer  
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,typescript,hibernate,maven,mysql,postgresql,mongodb,docker,git,&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,aws,postgresql,mongodb,redis,maven,git,linux&perline=12" />
 
 
 ---
